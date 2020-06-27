@@ -4,7 +4,7 @@ A webapp showing weather datas of cities & less focused on UI rather more on get
 
 #### Usage:
 - clone it
-- `npm install`
+- `yarn install`
 - Get your API key [here](https://openweathermap.org/) & replace it in code
 
 #### If one wants to use map:
